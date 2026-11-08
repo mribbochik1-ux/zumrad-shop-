@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Orange Circle Background -->
+  <circle cx="50" cy="50" r="48" fill="#FF8A00" />
+  <!-- White Regular Hexagon -->
+  <!-- Center (50, 50), radius 34. Points: (50, 16), (79.4, 33), (79.4, 67), (50, 84), (20.6, 67), (20.6, 33) -->
+  <polygon points="50,16 79.44,33 79.44,67 50,84 20.56,67 20.56,33" fill="#FFFFFF" />
+  <!-- Vivid Orange Stylized 'Z' -->
+  <path d="M35 34 H65 L43 56 H65 V66 H35 L57 44 H35 V34 Z" fill="#FF8A00" />
+</svg>
